@@ -1,0 +1,5 @@
+smoker,bmi_category,avg_charges
+no,Non-Obese,7977.03
+no,Obese,8842.69
+yes,Non-Obese,21363.22
+yes,Obese,41557.99
